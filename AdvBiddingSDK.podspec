@@ -22,6 +22,9 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios
   spec.platform     = :ios, "12.0"
 
+  spec.dependency 'AdvanceSDK/Core'
+  spec.dependency 'AdvanceSDK/Adspot'
+  spec.dependency 'AdvBiddingSuppliers'
 
   spec.source       = { :git => "https://github.com/shichuanyang/AdvBiddingSDK.git", :tag => spec.version.to_s }
 
