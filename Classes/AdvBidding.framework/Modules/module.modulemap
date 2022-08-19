@@ -1,6 +1,0 @@
-framework module AdvBidding {
-  umbrella header "AdvBidding.h"
-
-  export *
-  module * { export * }
-}
