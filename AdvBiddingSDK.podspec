@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   spec.public_header_files  = "Classes/**/*.h"
 
 
-  spec.ios.vendored_frameworks = ['Classes/AdvBidding.framework']
+  # spec.ios.vendored_frameworks = ['Classes/AdvBidding.framework']
 
 
   # spec.library   = "iconv"
