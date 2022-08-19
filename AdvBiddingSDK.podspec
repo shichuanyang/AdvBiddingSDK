@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "AdvBiddingSDK"
-  spec.version      = "0.0.5"
+  spec.version      = "0.0.6"
   spec.summary      = "A short description of AdvBiddingSDK."
 
   spec.description  = <<-DESC
@@ -28,7 +28,7 @@ Pod::Spec.new do |spec|
   spec.public_header_files  = "Classes/**/*.h"
 
 
-  # spec.ios.vendored_frameworks = ['Classes/AdvBidding.framework']
+  spec.ios.vendored_frameworks = ['Classes/AdvBidding.framework']
 
 
   # spec.library   = "iconv"

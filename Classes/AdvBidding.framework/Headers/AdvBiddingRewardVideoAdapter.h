@@ -6,13 +6,8 @@
 //
 
 #import "AdvBaseAdPosition.h"
-#import <Foundation/Foundation.h>
-#import <UIKit/UIKit.h>
+#import "AdvBidding.h"
 #import "AdvanceRewardVideoDelegate.h"
-
-@class AdvSupplier;
-@class AdvanceRewardVideo;
-
 NS_ASSUME_NONNULL_BEGIN
 
 @interface AdvBiddingRewardVideoAdapter : AdvBaseAdPosition

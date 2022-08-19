@@ -22,3 +22,38 @@ FOUNDATION_EXPORT const unsigned char AdvBiddingVersionString[];
 #import <AdvBidding/AdvBiddingRewardVideoCustomAdapter.h>
 #import <AdvBidding/AdvBiddingNativeExpressCustomAdapter.h>
 
+
+
+#import "AdvLog.h"
+#import "AdvanceSplash.h"
+#import "UIApplication+Adv.h"
+#import "AdvanceNativeExpress.h"
+#import "AdvanceNativeExpressView.h"
+#import "AdvSupplierModel.h"
+#import "AdvModel.h"
+#import "AdvanceSplashDelegate.h"
+#import "AdvanceRewardVideoDelegate.h"
+#import "AdvanceNativeExpressDelegate.h"
+#import "AdvBaseAdPosition.h"
+#import "AdvanceRewardVideo.h"
+
+# if __has_include(<ABUAdSDK/ABUAdSDK.h>)
+#import <ABUAdSDK/ABUAdSDK.h>
+#else
+#import <Ads-Mediation-CN/ABUAdSDK.h>
+#endif
+
+//#import <AdvanceSDK/AdvLog.h>
+//#import <AdvanceSDK/AdvanceSplash.h>
+//#import <AdvanceSDK/UIApplication+Adv.h>
+//#import <AdvanceSDK/AdvanceNativeExpress.h>
+//#import <AdvanceSDK/AdvanceNativeExpressView.h>
+//#import <AdvanceSDK/AdvSupplierModel.h>
+//#import <AdvanceSDK/AdvModel.h>
+//#import <AdvanceSDK/AdvanceSplashDelegate.h>
+//#import <AdvanceSDK/AdvanceRewardVideoDelegate.h>
+//#import <AdvanceSDK/AdvanceNativeExpressDelegate.h>
+//#import <AdvanceSDK/AdvBaseAdPosition.h>
+//#import <AdvanceSDK/AdvanceRewardVideo.h>
+
+
