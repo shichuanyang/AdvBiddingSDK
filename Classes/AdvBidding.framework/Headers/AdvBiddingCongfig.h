@@ -9,6 +9,7 @@
 #import "AdvBidding.h"
 @class AdvSupplierModel;
 NS_ASSUME_NONNULL_BEGIN
+@class AdvSupplierModel;
 @interface AdvBiddingCongfig : NSObject
 + (AdvBiddingCongfig *)defaultManager;
 

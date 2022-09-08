@@ -6,8 +6,10 @@
 //
 
 #import <Foundation/Foundation.h>
+#import "AdvBaseAdPosition.h"
 #import "AdvBidding.h"
 #import "AdvanceSplashDelegate.h"
+
 NS_ASSUME_NONNULL_BEGIN
 
 @interface AdvBiddingSplashAdapter : AdvBaseAdPosition
