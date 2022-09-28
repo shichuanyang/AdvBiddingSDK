@@ -21,7 +21,7 @@ FOUNDATION_EXPORT const unsigned char AdvBiddingVersionString[];
 #import <AdvBidding/AdvBiddingSplashCustomAdapter.h>
 #import <AdvBidding/AdvBiddingRewardVideoCustomAdapter.h>
 #import <AdvBidding/AdvBiddingNativeExpressCustomAdapter.h>
-
+#import <AdvBidding/AdvBiddingSplashScapegoat.h>
 
 
 #import "AdvLog.h"
