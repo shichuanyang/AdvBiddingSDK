@@ -5,9 +5,13 @@
 //  Created by MS on 2022/8/8.
 //
 
+#import "AdvBaseAdPosition.h"
 #import <Foundation/Foundation.h>
 #import "AdvBidding.h"
 #import "AdvanceNativeExpressDelegate.h"
+
+@class AdvSupplier;
+@class AdvanceNativeExpress;
 
 NS_ASSUME_NONNULL_BEGIN
 

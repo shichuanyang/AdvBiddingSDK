@@ -5,8 +5,9 @@
 //  Created by MS on 2022/8/10.
 //
 
-#import <Foundation/Foundation.h>
 #import "AdvBaseAdPosition.h"
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 #import "AdvBidding.h"
 #import "AdvanceRewardVideoDelegate.h"
 
