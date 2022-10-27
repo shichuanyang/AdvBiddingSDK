@@ -9,8 +9,8 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 #import "AdvBidding.h"
-#import "AdvanceRewardVideoDelegate.h"
 
+#import "AdvanceRewardVideoDelegate.h"
 @class AdvSupplier;
 @class AdvanceRewardVideo;
 
