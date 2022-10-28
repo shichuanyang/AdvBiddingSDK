@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "AdvBiddingSDK"
-  spec.version      = "1.0.9"
+  spec.version      = "1.1.0"
   spec.summary      = "A short description of AdvBiddingSDK."
 
   spec.description  = <<-DESC

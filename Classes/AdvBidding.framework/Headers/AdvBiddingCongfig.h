@@ -1,6 +1,6 @@
 //
 //  AdvBiddingCongfig.h
-//  
+//  1.1.0
 //
 //  Created by MS on 2022/7/27.
 //
