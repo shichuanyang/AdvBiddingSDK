@@ -38,6 +38,7 @@ FOUNDATION_EXPORT const unsigned char AdvBiddingVersionString[];
 #import "AdvanceNativeExpressDelegate.h"
 #import "AdvBaseAdPosition.h"
 #import "AdvanceRewardVideo.h"
+#import "AdvanceInterstitial.h"
 
 # if __has_include(<ABUAdSDK/ABUAdSDK.h>)
 #import <ABUAdSDK/ABUAdSDK.h>
